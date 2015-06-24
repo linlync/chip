@@ -3,3 +3,5 @@ CHip COb 2
 CHip COb 3
 CHip COb 4
 CHip COb 5
+CHip COb 6
+CHip COb 7
